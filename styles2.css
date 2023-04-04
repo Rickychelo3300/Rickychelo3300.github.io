@@ -209,8 +209,8 @@ button:focus {
 }
 
 .info {
-  margin-bottom: calc(var(--card-altura) / 2);
-  margin-left: calc(var(--card-largura) / 1.5);
+  margin-bottom: calc(var(--card-altura)/3 ); /*Acá*/
+  margin-left: calc(var(--card-largura) / 1.75);
   transform: translateZ(2rem);
   transition: transform var(--card-duracao-transicao)
     var(--card-transicao-tipo-saida);
