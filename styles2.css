@@ -227,9 +227,10 @@ button:focus {
 .info .localizacao {
   texto-transform: uppercase;
 }
+/*
 .info .localizacao {
   font-weight: 800;
-}
+}*/
 .info .localizacao {
   --mg-left: 40px;
   --texto-size-offset: 0.12;
